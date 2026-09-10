@@ -1,13 +1,21 @@
-### Guilherme Bortoletto
+## Guilherme Bortoletto
 
-Engenheiro de software. Sistemas distribuídos e agentes de IA que precisam funcionar às 3 da manhã, sem ninguém olhando.
+Software engineer · São Paulo, Brazil
 
-Tenho uma opinião forte sobre arquitetura: **se a regra só existe no README, ela não existe.** Escrevo as minhas como teste que roda no CI e reprova quem desrespeitar. Decisão vira ADR; quando muda, o documento muda no mesmo commit.
+I work on distributed systems and AI agents applied to real operations — integrations, queues, writes to production databases, and everything that has to exist around them so they keep running unattended.
 
-Sobre IA: o modelo é casca fina. O valor mora no cálculo em volta — na validação da saída, na ferramenta que devolve o dado certo, no domínio que não deixa o modelo inventar.
+### What I care about
 
-**Stack:** Python · Firestore/Firebase · Google Cloud Functions · Docker · Node.js · React · Kotlin/Android · pytest
+- Architecture enforced by tests: dependency rules between layers checked in CI, decisions recorded as ADRs
+- AI agents with the model at the edge and the decisions in code — output validation, tools that return real data, a domain that limits what the model can claim
+- Operational tooling that is safe by default: dry run before writing, journaling, undo
 
-A maior parte do que faço é privada — trabalho e um projeto próprio. O gráfico de contribuições conta a parte que dá pra contar.
+### Stack
+
+Python · pytest · Firestore/Firebase · Google Cloud Functions · Docker · Node.js · React · Kotlin/Android
+
+### About this profile
+
+Most of my work lives in private repositories, and the contribution graph reflects that. Whatever can be public, I bring here.
 
 [LinkedIn](https://www.linkedin.com/in/guilhermebortoletto)

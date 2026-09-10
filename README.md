@@ -16,7 +16,7 @@ In the end I measure one thing: how much time people got back.
 
 ### Stack
 
-Python · pytest · Firestore/Firebase · Google Cloud Functions · Docker · Node.js · React · Kotlin/Android
+Python · pytest · Firestore/Firebase · Google Cloud Functions · Docker · Node.js · React
 
 ### About this profile
 

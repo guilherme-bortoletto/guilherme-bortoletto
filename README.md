@@ -6,6 +6,8 @@ I work on distributed systems and AI agents applied to real operations — integ
 
 Most of my work starts the same way: a real problem, studied closely enough to reveal its pattern — and then software that takes the repetition off people’s hands.
 
+Underneath all of it, one intention: give people their time back.
+
 ### What I care about
 
 - Architecture enforced by tests: dependency rules between layers checked in CI, decisions recorded as ADRs

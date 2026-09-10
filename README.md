@@ -4,6 +4,8 @@ Software engineer · São Paulo, Brazil
 
 I work on distributed systems and AI agents applied to real operations — integrations, queues, writes to production databases, and everything that has to exist around them so they keep running unattended.
 
+Most of my work starts the same way: a real problem, studied closely enough to reveal its pattern — and then software that takes the repetition off people’s hands.
+
 ### What I care about
 
 - Architecture enforced by tests: dependency rules between layers checked in CI, decisions recorded as ADRs

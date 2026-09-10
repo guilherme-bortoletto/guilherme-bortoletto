@@ -6,7 +6,7 @@ I work on distributed systems and AI agents applied to real operations: integrat
 
 Most of my work starts the same way: a real problem, studied closely enough to reveal its pattern. Then software that takes the repetition off people’s hands.
 
-Underneath all of it, one intention: give people their time back.
+In the end I measure one thing: how much time people got back.
 
 ### What I care about
 

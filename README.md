@@ -1,5 +1,3 @@
-![Software Engineering · Distributed Systems · Applied AI](assets/banner.png)
-
 ## Guilherme Bortoletto
 
 Software engineer · São Paulo, Brazil
